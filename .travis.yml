@@ -3,5 +3,4 @@ script:
 
 
 install:
-  sudo apt-get check
-  
+  sudo apt-get install check
